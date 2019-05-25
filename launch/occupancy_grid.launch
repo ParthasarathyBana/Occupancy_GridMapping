@@ -1,0 +1,6 @@
+<launch>
+
+  <!-- Launches the avoider algorithm python file -->
+  <node pkg="homework2" type="occupancy_grid.py" name="Occupancy_Grid" output="screen" />
+
+</launch>
